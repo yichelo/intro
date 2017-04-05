@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 38,
+    "uniqCompNum": 39,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -495,7 +495,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3755.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3756.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
