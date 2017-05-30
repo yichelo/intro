@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 39,
+    "uniqCompNum": 40,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -495,7 +495,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x3756.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x3751.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -584,7 +584,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tracer-2000x1124.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/tracer-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -602,6 +602,40 @@
           "title": "<font color=\"#000000\">與朋友一 起開心的遊戲吧!</font><font color=\"#000000\"><br></font>",
           "text": "<br><font color=\"#000000\">overwatch是一款非常適合與朋友一起同樂的遊戲，因為它十分注重與隊友的配合，號召你的朋友們，一起加入捍衛者的行列吧!</font>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://playoverwatch.com/zh-tw/buy/\" data-toolbar=\"-mbrBtnMove\">立刻加入</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header1-13",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "<p><a href=\"http://\">&nbsp; &nbsp;&nbsp;<div data-type=\"AwesomeTableView\" data-viewid=\"-KlJnnsWE8OD8eKHex_R\"></div> <script src=\"https://awesome-table.com/AwesomeTableInclude.js\"></script></a></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     }
